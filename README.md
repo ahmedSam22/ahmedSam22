@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **ahmsamir288@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing](https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing)
-
+- 📄 Know about my experiences 
 <a href="https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
