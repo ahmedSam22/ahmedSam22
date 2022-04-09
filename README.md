@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing](https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing)
 
-<a href="https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing" target="blank"> HERE </a>
+<a href="https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
