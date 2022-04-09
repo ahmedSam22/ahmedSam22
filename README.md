@@ -1,7 +1,8 @@
 <h1 align="center">Hello world 👋, I'm Ahmed Samir</h1>
 <h3 align="center">Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedSam22?tab=repositories](https://github.com/ahmedSam22?tab=repositories)
+- 👨‍💻 All of my projects are available 
+- <a href="https://github.com/ahmedSam22?tab=repositories" target="blank"> HERE </a>
 
 - 📫 How to reach me **ahmsamir288@outlook.com**
 
