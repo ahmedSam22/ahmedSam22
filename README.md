@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available  <a href="https://github.com/ahmedSam22?tab=repositories" target="blank"> HERE </a>
 
-- 📫 How to reach me **ahmsamir288@outlook.com**
-
 - 📄 Know about my experiences from
 <a href="https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing" target="blank"> HERE </a>
 
