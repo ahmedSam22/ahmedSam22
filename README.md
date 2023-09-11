@@ -1,10 +1,9 @@
 <h1 align="center">Hello world 👋, I'm Ahmed Samir</h1>
 <h3 align="center">Web Developer</h3>
 
-- 👨‍💻 All of my projects are available  <a href="https://github.com/ahmedSam22?tab=repositories" target="blank"> HERE </a>
+- 👨‍💻 check My Portfolio  <a href="[https://github.com/ahmedSam22?tab=repositories](https://ahmedsam22.github.io/portfolio/)" target="blank"> HERE </a>
 
-- 📄 Know about my experiences from
-<a href="https://drive.google.com/file/d/1dr_OopeMwGCxov9v1_w0T-NhcnXrJptz/view?usp=sharing" target="blank"> HERE </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
