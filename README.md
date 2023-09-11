@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Ahmed Samir</h1>
 <h3 align="center">Web Developer</h3>
 
-- 👨‍💻 check My Portfolio  <a href="[https://github.com/ahmedSam22?tab=repositories](https://ahmedsam22.github.io/portfolio/)" target="blank"> HERE </a>
+- 👨‍💻 check My Portfolio  <a href="https://ahmedsam22.github.io/portfolio/" target="blank"> HERE </a>
 
 
 
